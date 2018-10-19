@@ -1,0 +1,20 @@
+{
+  "name": "techbosnia/helpers",
+  "type": "package",
+  "require": {
+    "php": ">=7.2"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Mirza Oglecevac",
+      "email": "oglecevacmirza@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "techbosnia\\helpers\\": "src/"
+    }
+  }
+}
